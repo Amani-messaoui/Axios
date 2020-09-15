@@ -1,6 +1,5 @@
 const express = require ("express");
 const axios = require ("axios");
-const { application, request } = require("express");
 const app = express();
 const port =3000;
 
